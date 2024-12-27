@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a aspiring software engineer who graduated in Computer Science in 2024
 <!--
 **VISHNUKANTHMADABHUSHI/VISHNUKANTHMADABHUSHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
