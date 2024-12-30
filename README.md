@@ -2,11 +2,17 @@
 I’m a Computer Science Engineering (CSE) student who is passionate about software development, algorithms, data structures, and all things tech. I'm eager to learn and contribute to open-source projects. This is my GitHub where I share my journey, projects, and code.
 
 🔧 Technologies & Tools
-Languages: Python, Java, C++, JavaScript, SQL
+
+Languages: Python, Java, C++, JavaScript, SQL, Kotlin, Golang
+
 Web Development: HTML, CSS, React
+
 Version Control: Git, GitHub
+
 Databases: MySQL, MongoDB
+
 Frameworks & Libraries: Node.js, Express, Flask
+
 Others: Docker, Linux, VS Code
 
 
@@ -24,6 +30,7 @@ Diving deeper into Data Structures and Algorithms.
 Building my first React application.
 Exploring Machine Learning with Python.
 Learning Docker for containerization.
+Exploring Golang.
 
 Feel free to check out my repositories, star the ones you like, and contribute if you’d like to collaborate! 😊
 <!--
