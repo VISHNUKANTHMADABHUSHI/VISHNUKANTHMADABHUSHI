@@ -1,4 +1,5 @@
 ### Hi there! <h1>I'm Vishnu 👋
+
 I’m a Computer Science Engineering (CSE) student who is passionate about software development, algorithms, data structures, and all things tech. I'm eager to learn and contribute to open-source projects. This is my GitHub where I share my journey, projects, and code.
 
 🔧 Technologies & Tools
@@ -18,6 +19,7 @@ Others: Docker, Linux, VS Code
 
 
 🌱 My Focus
+
 Data Structures & Algorithms
 Web Development (Frontend/Backend)
 Machine Learning and AI
@@ -26,6 +28,7 @@ Contributing to open-source projects
 
 
 📚 Current Learning
+
 Diving deeper into Data Structures and Algorithms.
 Building my first React application.
 Exploring Machine Learning with Python.
