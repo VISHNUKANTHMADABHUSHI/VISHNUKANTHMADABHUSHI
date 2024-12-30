@@ -1,5 +1,26 @@
-### Hi there 👋
-I am a aspiring software engineer who graduated in Computer Science in 2024
+### Hi there! I'm Vishnu 👋
+I’m a Computer Science Engineering (CSE) student who is passionate about software development, algorithms, data structures, and all things tech. I'm eager to learn and contribute to open-source projects. This is my GitHub where I share my journey, projects, and code.
+
+🔧 Technologies & Tools
+Languages: Python, Java, C++, JavaScript, SQL
+Web Development: HTML, CSS, React
+Version Control: Git, GitHub
+Databases: MySQL, MongoDB
+Frameworks & Libraries: Node.js, Express, Flask
+Others: Docker, Linux, VS Code
+🌱 My Focus
+Data Structures & Algorithms
+Web Development (Frontend/Backend)
+Machine Learning and AI
+Cloud Computing
+Contributing to open-source projects
+📚 Current Learning
+Diving deeper into Data Structures and Algorithms.
+Building my first React application.
+Exploring Machine Learning with Python.
+Learning Docker for containerization.
+
+Feel free to check out my repositories, star the ones you like, and contribute if you’d like to collaborate! 😊
 <!--
 **VISHNUKANTHMADABHUSHI/VISHNUKANTHMADABHUSHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
