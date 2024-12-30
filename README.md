@@ -1,4 +1,4 @@
-### Hi there! I'm Vishnu 👋
+### Hi there! <h1>I'm Vishnu 👋
 I’m a Computer Science Engineering (CSE) student who is passionate about software development, algorithms, data structures, and all things tech. I'm eager to learn and contribute to open-source projects. This is my GitHub where I share my journey, projects, and code.
 
 🔧 Technologies & Tools
