@@ -8,12 +8,17 @@ Version Control: Git, GitHub
 Databases: MySQL, MongoDB
 Frameworks & Libraries: Node.js, Express, Flask
 Others: Docker, Linux, VS Code
+
+
+
 🌱 My Focus
 Data Structures & Algorithms
 Web Development (Frontend/Backend)
 Machine Learning and AI
 Cloud Computing
 Contributing to open-source projects
+
+
 📚 Current Learning
 Diving deeper into Data Structures and Algorithms.
 Building my first React application.
